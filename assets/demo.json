@@ -1,0 +1,74 @@
+{
+    "success": 1,
+    "data": {
+        "fields": [
+            {
+                "id": "1",
+                "name": "Example 11",
+                "type": "multiple-choice",
+                "options": [
+                    "multi ex1",
+                    "multi ex2",
+                    "multi ex3"
+                ]
+            },
+            {
+                "id": "2",
+                "name": "Example 33",
+                "type": "dropdown",
+                "options": [
+                    "tt1"
+                ]
+            },
+            {
+                "id": "3",
+                "name": "Example 55",
+                "type": "multiple-choice",
+                "options": [
+                    "tt1",
+                    "tt2"
+                ]
+            },
+            {
+                "id": "4",
+                "name": "Example 22",
+                "type": "dropdown",
+                "options": [
+                    "ex1",
+                    "ex2",
+                    "ex3"
+                ]
+            },
+            {
+                "id": "5",
+                "name": "Example 88",
+                "type": "dropdown",
+                "options": [
+                    "ex1",
+                    "ex2",
+                    "ex3"
+                ]
+            },
+            {
+                "id": "6",
+                "name": "Example 99",
+                "type": "dropdown",
+                "options": [
+                    "ex1",
+                    "e2",
+                    "3"
+                ]
+            },
+            {
+                "id": "7",
+                "name": "Example 50",
+                "type": "multiple-choice",
+                "options": [
+                    "tt1",
+                    "tt2",
+                    "tr4"
+                ]
+            }
+        ]
+	}
+}
